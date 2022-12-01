@@ -791,6 +791,15 @@
       "dateSentInTicks": 1669465594394,
       "messageHasBeenSeen": false,
       "id": 45
+    },
+    {
+      "message": "aaa",
+      "authorId": 1,
+      "destinataryId": 2,
+      "dateSent": "Dec 01 2022 16:09:29",
+      "dateSentInTicks": 1669921769952,
+      "messageHasBeenSeen": false,
+      "id": 46
     }
   ],
   "produtos": [
